@@ -4,3 +4,4 @@ PR*
 **/*.png
 **/*.nii
 **/*.txt
+!LICENCE.txt
